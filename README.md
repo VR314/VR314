@@ -7,8 +7,8 @@ It's crazy to think that not so long ago, the Internet was a fledgling, niche te
     - I am comfortable working with: C#, Java, JavaScript (Node.js, React)
     - I have exposure and have basic skill in: F#, Python, C++
     - To learn: 
-        - Languages: Rust, Go, C, R, TypeScript (jQuery, advanced React features + large-scale web apps)
-        - Topics to explore: Linux architecture, networking + cybersecurity, robust and fast desktop + mobile UX (there are so many 'modern frameworks' but sadly, they all seem slow or extremely limited), blockchain, machine learning, large-scale web applications (also how to use new web technologies to provide desktop-like experiences in browser, like PWAs), ... again, I could go on and on!
+        - Languages: Rust + Go (what's with all the hype?!), C (memory management terrifies me, but I need to confront this fear ASAP), R (data analysis is fascinating, but I want to study enough statistics first), TypeScript (jQuery, advanced React features + large-scale web apps)
+        - Topics to explore: Linux system architecture, embedded systems + IoT, networking + cybersecurity, robust and fast desktop + mobile UX (there are so many 'modern frameworks' but sadly, they all seem slow or extremely limited), blockchain, machine learning, large-scale web applications (also how to use new web technologies to provide desktop-like experiences in browser)... again, I could go on and on!
             - I find the Linux command line extremely interesting and hope to use + develop command line utilities in the near future. Good command-line programs seem difficult but oh so satisfying, simple, and fast to use!
             - If you are experienced in these topics or are similarly interested, email me!
     
