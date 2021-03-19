@@ -14,9 +14,14 @@ It's crazy to think that not so long ago, the Internet was a fledgling, niche te
 - I also have some really exciting things I want to do soon:
     - Create a *cool* personal website
     - Build with hardware (arduino, motors, raspberry pi, sensors, cameras, etc.)
+    - Learn 3D modeling for 3D-printing and animations/visualizations 
     - Collaborate with someone over the internet for a project
     - Contribute to a large open-source project
 - Some 'moonshots' I have:
     - Give a TED talk
     - Work on something that will land on the Moon / Mars
     - Publish a research paper
+    - Have an essay published in a reputable publication (Harper’s, the Atlantic, etc.)
+    - Do something worthy of a Wikipedia page
+    - Fly a jet around the world
+    
