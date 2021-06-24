@@ -1,6 +1,6 @@
 ### 🚀 Welcome to my little corner of the Internet! 🚀
 It's crazy to think that not so long ago, the Internet was a fledgling, niche technology, but now it's so simple for someone like me to create and share on the Internet. I'm thankful for and in awe of this exponential technological growth, but I think it's due time to develop more of these revolutionary ideas! Luckily, I have a few things on my side to help me on my quest:
-- I'm a high school junior (16 y/o) in the USA
+- I'm a high school senior (17 y/o) in the USA
     - Entering college in Fall 2022, hopefully studying applied physics, aerospace engineering, or computational science
 - I LOVE thinking and learning about space, rocketry, evolutionary biology, computational sciences (especially physics!), social studies (especially geography, history), emerging technologies and futurism... I could go on and on!
 - I have been into computer science since I was 10 (yes, I was a Scratch kid), and I have been programming since I was 12. I have lots of breadth of knowledge and pride myself on being able to learn quickly:
